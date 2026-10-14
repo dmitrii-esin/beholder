@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.idea/
+*.log
+notes/
+private/
+
+# Private session logs and personal profile
+history/*
+!history/README.md
+!history/how-to-log.md
+!history/session-log-template.md
+profile.local.md
+*.local.md

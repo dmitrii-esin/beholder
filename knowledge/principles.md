@@ -1,0 +1,14 @@
+# Principles (brief, with evidence strength)
+- **Cognitive model (CBT):** situations trigger appraisals, and appraisals drive emotion and behavior. Change happens through restructuring plus behavioral tests. CBT has a strong evidence base across anxiety, depression, insomnia and more (Hofmann et al., 2012).
+- **Major therapies are roughly equivalent for depression:** CBT, BA, PST, third-wave approaches and IPT show similar efficacy, so pick by fit and preference. PST shows somewhat better 12-month outcomes (Cuijpers et al., 2021, 331 RCTs).
+- **Third wave:** ACT, BA, DBT, MBCT, MCT and schema therapy beat usual care, and none beats CBT. The evidence certainty is mostly low (NMA, Front Psychiatry 2023).
+- **Behavioral activation:** action precedes motivation. Schedule valued activities instead of waiting to feel like it.
+- **Worry postponement / stimulus control:** Borkovec et al. (1983). It is a component of Wells' metacognitive therapy. The effect is moderate, so present it as an experiment.
+- **Open loops:** the evidence for a "Zeigarnik memory effect" is mixed. More robust: making a specific plan for an unfinished goal reduces intrusive thoughts about it (Masicampo & Baumeister, 2011).
+- **Implementation intentions:** "When X, I will Y" plans reliably improve follow-through (Gollwitzer & Sheeran, 2006).
+- **Exposure:** fear reduces through approach while dropping safety behaviors. Inhibitory learning says expectation violation matters more than in-session anxiety reduction.
+- **CBT-I:** first-line treatment for chronic insomnia. The active ingredients are cognitive restructuring, sleep restriction and stimulus control. Sleep hygiene alone is not enough, and relaxation may add little (Furukawa et al., JAMA Psychiatry 2024; van Straten et al., 2018).
+- **Self-compassion approaches:** improve self-compassion, anxiety and depression versus passive controls (g ≈ 0.4–0.5), but not versus active controls (Wilson et al., 2019).
+- **DBT:** reduces self-harm and suicidal ideation, with small to moderate effects in adolescents (DBT-A meta-analysis, Psychol Med).
+- **Trauma-informed care:** SAMHSA's six principles: safety; trustworthiness and transparency; peer support; collaboration and mutuality; empowerment, voice and choice; cultural, historical and gender issues.
+- **Low friction:** the smallest version that the person will actually do beats the ideal plan.
